@@ -1,0 +1,35 @@
+{% comment %}
+based upon https://codyhouse.co/demo/mega-dropdown/index.html
+{% endcomment %}
+
+<div class="cd-dropdown-wrapper">
+  <a class="cd-dropdown-trigger sidebar-toggle" href="#0"></a>
+  <nav class="cd-dropdown">
+    <a href="#0" class="cd-close">Close</a>
+    <ul class="cd-dropdown-content">
+      {% assign entries = site.pages | sort: "path" %}
+      <li><a href="/introduction">Introduction</a></li>
+      <li><a href="/why-create-a-new-system">Why Create This?</a></li>
+      {% if jekyll.environment == 'production' %}
+      <li class="has-children">
+        <a href="/open-socialism">The System</a>
+
+        {% include nav-list.html context="/open-socialism/" entries=entries title="Open Socialism" %}
+      </li>
+      <li class="has-children">
+        <a href="/societal-metrics">Societal Metrics</a>
+
+        {% include nav-list.html context="/societal-metrics/" entries=entries title="Societal Metrics" %}
+      </li>
+      <li class="has-children">
+        <a href="/assess-dc">Assess DC</a>
+
+        {% include nav-list.html context="/assess-dc/" entries=entries title="Assess DC" %}
+      </li>
+      {% endif %}
+      <li><a href="/contribute">Contribute</a></li>
+      <li><a href="https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform" target="_blank">Take the Survey</a></li>
+      <li><a href="https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform" target="_blank">General Feedback</a></li>
+    </ul>
+  </nav>
+</div>

@@ -1,0 +1,17 @@
+<ul>
+  {% assign entries = site.pages | sort: "path" %}
+
+  {% if include.rootPath %}
+    {% assign root = include.rootPath %}
+  {% else %}
+    {% assign root = page.url | remove: 'index.html' %}
+  {% endif %}
+
+  {% for entry in entries %}
+
+    {% if entry.url contains root and entry.url != root and entry.placeholder != true %}
+      <li><a href="{{ entry.url | remove: '.html' }}">{{entry.title}}</a></li>
+    {% endif %}
+
+  {% endfor %}
+</ul>

@@ -1,0 +1,21 @@
+version: "2"
+
+services:
+  dev:
+    build: .
+    working_dir: /work
+    command: [bundle, exec, jekyll, serve, --incremental, -H, 0.0.0.0]
+    volumes:
+      - .:/work
+      - ruby2.3-gem-cache:/usr/local/bundle
+    ports:
+      - "4000:4000"
+  prod:
+    environment:
+      - JEKYLL_ENV=production
+    extends:
+      service: dev
+
+volumes:
+  ruby2.3-gem-cache:
+    external: true
