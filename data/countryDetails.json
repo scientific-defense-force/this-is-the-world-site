@@ -1,0 +1,2152 @@
+[
+  {
+    "name" : "Afghanistan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1604,
+    "wealthPerAdult2000" : 848,
+    "weatlhPerAdult2016" : 2500,
+    "totalWeatlh" : 38000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Albania",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6169,
+    "wealthPerAdult2000" : 3104,
+    "weatlhPerAdult2016" : 9204,
+    "totalWeatlh" : 21000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Algeria",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9070,
+    "wealthPerAdult2000" : 5984,
+    "weatlhPerAdult2016" : 7561,
+    "totalWeatlh" : 190000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "American Samoa",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 6101,
+    "wealthPerAdult2000" : 12663,
+    "weatlhPerAdult2016" : 1,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Andorra",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 11,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Angola",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 14482,
+    "wealthPerAdult2000" : 2235,
+    "weatlhPerAdult2016" : 16019,
+    "totalWeatlh" : 161000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Antigua and Barbuda",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 24061,
+    "wealthPerAdult2000" : 21622,
+    "weatlhPerAdult2016" : 22784,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Argentina",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18874,
+    "wealthPerAdult2000" : 24874,
+    "weatlhPerAdult2016" : 16002,
+    "totalWeatlh" : 467000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Armenia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 4933,
+    "wealthPerAdult2000" : 1916,
+    "weatlhPerAdult2016" : 5558,
+    "totalWeatlh" : 13000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Aruba",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 2,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Australia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 99452,
+    "wealthPerAdult2000" : 103151,
+    "weatlhPerAdult2016" : 375573,
+    "totalWeatlh" : 6428000000000,
+    "shareOfWorldWealth2016" : 2.5
+  },
+  {
+    "name" : "Austria",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 67391,
+    "wealthPerAdult2000" : 91321,
+    "weatlhPerAdult2016" : 206002,
+    "totalWeatlh" : 1408000000000,
+    "shareOfWorldWealth2016" : 0.6
+  },
+  {
+    "name" : "Azerbaijan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 16958,
+    "wealthPerAdult2000" : 3011,
+    "weatlhPerAdult2016" : 13242,
+    "totalWeatlh" : 86000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bahamas",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 39754,
+    "wealthPerAdult2000" : 36586,
+    "weatlhPerAdult2016" : 45947,
+    "totalWeatlh" : 12000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bahrain",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 35190,
+    "wealthPerAdult2000" : 36632,
+    "weatlhPerAdult2016" : 50609,
+    "totalWeatlh" : 31000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bangladesh",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1404,
+    "wealthPerAdult2000" : 1069,
+    "weatlhPerAdult2016" : 2347,
+    "totalWeatlh" : 258000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Barbados",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 26013,
+    "wealthPerAdult2000" : 17220,
+    "weatlhPerAdult2016" : 22120,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Belarus",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9750,
+    "wealthPerAdult2000" : 2239,
+    "weatlhPerAdult2016" : 1259,
+    "totalWeatlh" : 9000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Belgium",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 62623,
+    "wealthPerAdult2000" : 147824,
+    "weatlhPerAdult2016" : 270613,
+    "totalWeatlh" : 2293000000000,
+    "shareOfWorldWealth2016" : 0.9
+  },
+  {
+    "name" : "Belize",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 8387,
+    "wealthPerAdult2000" : 8708,
+    "weatlhPerAdult2016" : 10896,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Benin",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1829,
+    "wealthPerAdult2000" : 1195,
+    "weatlhPerAdult2016" : 3136,
+    "totalWeatlh" : 16000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bermuda",
+    "region" : "North America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 196375,
+    "wealthPerAdult2000" : 337078,
+    "weatlhPerAdult2016" : 18,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bhutan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 5401,
+    "wealthPerAdult2000" : 1998,
+    "weatlhPerAdult2016" : 6362,
+    "totalWeatlh" : 3000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bolivia",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 5416,
+    "wealthPerAdult2000" : 2091,
+    "weatlhPerAdult2016" : 5542,
+    "totalWeatlh" : 34000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bosnia and Herzegovina",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6760,
+    "wealthPerAdult2000" : 3918,
+    "weatlhPerAdult2016" : 11384,
+    "totalWeatlh" : 34000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Botswana",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 17721,
+    "wealthPerAdult2000" : 4300,
+    "weatlhPerAdult2016" : 8600,
+    "totalWeatlh" : 11000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Brazil",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 21190,
+    "wealthPerAdult2000" : 8028,
+    "weatlhPerAdult2016" : 18059,
+    "totalWeatlh" : 2537000000000,
+    "shareOfWorldWealth2016" : 1.0
+  },
+  {
+    "name" : "Brunei",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 53925,
+    "wealthPerAdult2000" : 24087,
+    "weatlhPerAdult2016" : 46757,
+    "totalWeatlh" : 14000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Bulgaria",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10805,
+    "wealthPerAdult2000" : 3963,
+    "weatlhPerAdult2016" : 14824,
+    "totalWeatlh" : 87000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Burkina Faso",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1875,
+    "wealthPerAdult2000" : 489,
+    "weatlhPerAdult2016" : 1323,
+    "totalWeatlh" : 11000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Burundi",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 695,
+    "wealthPerAdult2000" : 179,
+    "weatlhPerAdult2016" : 361,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Cambodia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2109,
+    "wealthPerAdult2000" : 986,
+    "weatlhPerAdult2016" : 3427,
+    "totalWeatlh" : 34000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Cameroon",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2752,
+    "wealthPerAdult2000" : 1679,
+    "weatlhPerAdult2016" : 2526,
+    "totalWeatlh" : 28000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Canada",
+    "region" : "North America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 70993,
+    "wealthPerAdult2000" : 108464,
+    "weatlhPerAdult2016" : 270179,
+    "totalWeatlh" : 7564000000000,
+    "shareOfWorldWealth2016" : 3.0
+  },
+  {
+    "name" : "Cape Verde",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7836,
+    "wealthPerAdult2000" : 9624,
+    "weatlhPerAdult2016" : 16557,
+    "totalWeatlh" : 5000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Cayman Islands",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 1,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Central African Republic",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1041,
+    "wealthPerAdult2000" : 570,
+    "weatlhPerAdult2016" : 800,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Chad",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2054,
+    "wealthPerAdult2000" : 401,
+    "weatlhPerAdult2016" : 981,
+    "totalWeatlh" : 6000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Channel Islands",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 18,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Chile",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 25945,
+    "wealthPerAdult2000" : 17290,
+    "weatlhPerAdult2016" : 46543,
+    "totalWeatlh" : 602000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "China",
+    "region" : "China",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10795,
+    "wealthPerAdult2000" : 5672,
+    "weatlhPerAdult2016" : 22864,
+    "totalWeatlh" : 23393000000000,
+    "shareOfWorldWealth2016" : 9.1
+  },
+  {
+    "name" : "Colombia",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 14257,
+    "wealthPerAdult2000" : 6610,
+    "weatlhPerAdult2016" : 19050,
+    "totalWeatlh" : 609000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Comoros",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1897,
+    "wealthPerAdult2000" : 1445,
+    "weatlhPerAdult2016" : 2860,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Congo, Dem. Rep.",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 634,
+    "wealthPerAdult2000" : 165,
+    "weatlhPerAdult2016" : 396,
+    "totalWeatlh" : 14000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Congo, Rep.",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 7039,
+    "wealthPerAdult2000" : 1066,
+    "weatlhPerAdult2016" : 3217,
+    "totalWeatlh" : 7000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Costa Rica",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 17099,
+    "wealthPerAdult2000" : 10713,
+    "weatlhPerAdult2016" : 30747,
+    "totalWeatlh" : 105000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Cote d'Ivoire",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2543,
+    "wealthPerAdult2000" : 2073,
+    "weatlhPerAdult2016" : 2814,
+    "totalWeatlh" : 35000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Croatia",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 20295,
+    "wealthPerAdult2000" : 8623,
+    "weatlhPerAdult2016" : 22303,
+    "totalWeatlh" : 78000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Cuba",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10326,
+    "wealthPerAdult2000" : 19601,
+    "weatlhPerAdult2016" : 172,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Cyprus",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 39193,
+    "wealthPerAdult2000" : 86007,
+    "weatlhPerAdult2016" : 118478,
+    "totalWeatlh" : 85000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Czech Republic",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 27370,
+    "wealthPerAdult2000" : 11775,
+    "weatlhPerAdult2016" : 48357,
+    "totalWeatlh" : 409000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Denmark",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 79873,
+    "wealthPerAdult2000" : 104865,
+    "weatlhPerAdult2016" : 259816,
+    "totalWeatlh" : 1100000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Djibouti",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 3301,
+    "wealthPerAdult2000" : 2708,
+    "weatlhPerAdult2016" : 4047,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Dominica",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 12259,
+    "wealthPerAdult2000" : 8549,
+    "weatlhPerAdult2016" : 26385,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Dominican Republic",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10883,
+    "wealthPerAdult2000" : 10326,
+    "weatlhPerAdult2016" : 19601,
+    "totalWeatlh" : 132000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Ecuador",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9051,
+    "wealthPerAdult2000" : 3592,
+    "weatlhPerAdult2016" : 13730,
+    "totalWeatlh" : 126000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Egypt",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 5848,
+    "wealthPerAdult2000" : 7170,
+    "weatlhPerAdult2016" : 6323,
+    "totalWeatlh" : 351000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "El Salvador",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7971,
+    "wealthPerAdult2000" : 6373,
+    "weatlhPerAdult2016" : 14102,
+    "totalWeatlh" : 55000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Equatorial Guinea",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 30875,
+    "wealthPerAdult2000" : 1160,
+    "weatlhPerAdult2016" : 15238,
+    "totalWeatlh" : 6000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Eritrea",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1501,
+    "wealthPerAdult2000" : 406,
+    "weatlhPerAdult2016" : 2475,
+    "totalWeatlh" : 7000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Estonia",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 25844,
+    "wealthPerAdult2000" : 7337,
+    "weatlhPerAdult2016" : 39984,
+    "totalWeatlh" : 42000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Ethiopia",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1183,
+    "wealthPerAdult2000" : 189,
+    "weatlhPerAdult2016" : 440,
+    "totalWeatlh" : 20000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Faeroe Islands",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 6,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Fiji",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7402,
+    "wealthPerAdult2000" : 4492,
+    "weatlhPerAdult2016" : 6132,
+    "totalWeatlh" : 3000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Finland",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 68678,
+    "wealthPerAdult2000" : 78532,
+    "weatlhPerAdult2016" : 146733,
+    "totalWeatlh" : 622000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "France",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 61991,
+    "wealthPerAdult2000" : 103619,
+    "weatlhPerAdult2016" : 244365,
+    "totalWeatlh" : 11891000000000,
+    "shareOfWorldWealth2016" : 4.7
+  },
+  {
+    "name" : "French Guiana",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 3,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "French Polynesia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 134109,
+    "wealthPerAdult2000" : 203806,
+    "weatlhPerAdult2016" : 40,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Gabon",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 19436,
+    "wealthPerAdult2000" : 9616,
+    "weatlhPerAdult2016" : 17379,
+    "totalWeatlh" : 16000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Gambia",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1263,
+    "wealthPerAdult2000" : 793,
+    "weatlhPerAdult2016" : 857,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Georgia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 6305,
+    "wealthPerAdult2000" : 4277,
+    "weatlhPerAdult2016" : 19843,
+    "totalWeatlh" : 63000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Germany",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 56447,
+    "wealthPerAdult2000" : 89770,
+    "weatlhPerAdult2016" : 185175,
+    "totalWeatlh" : 12419000000000,
+    "shareOfWorldWealth2016" : 4.9
+  },
+  {
+    "name" : "Ghana",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 4058,
+    "wealthPerAdult2000" : 1098,
+    "weatlhPerAdult2016" : 872,
+    "totalWeatlh" : 13000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Greece",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 31888,
+    "wealthPerAdult2000" : 73920,
+    "weatlhPerAdult2016" : 103569,
+    "totalWeatlh" : 947000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Greenland",
+    "region" : "North America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 196375,
+    "wealthPerAdult2000" : 337078,
+    "weatlhPerAdult2016" : 16,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Grenada",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 14844,
+    "wealthPerAdult2000" : 5833,
+    "weatlhPerAdult2016" : 16831,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guadeloupe",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 7,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guam",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 134109,
+    "wealthPerAdult2000" : 203806,
+    "weatlhPerAdult2016" : 26,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guatemala",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7580,
+    "wealthPerAdult2000" : 3495,
+    "weatlhPerAdult2016" : 9830,
+    "totalWeatlh" : 80000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guinea",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1411,
+    "wealthPerAdult2000" : 910,
+    "weatlhPerAdult2016" : 923,
+    "totalWeatlh" : 5000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guinea-Bissau",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1348,
+    "wealthPerAdult2000" : 320,
+    "weatlhPerAdult2016" : 422,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Guyana",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6973,
+    "wealthPerAdult2000" : 1092,
+    "weatlhPerAdult2016" : 4711,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Haiti",
+    "region" : "Latin America",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1974,
+    "wealthPerAdult2000" : 5760,
+    "weatlhPerAdult2016" : 3128,
+    "totalWeatlh" : 19000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Honduras",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 4824,
+    "wealthPerAdult2000" : 3495,
+    "weatlhPerAdult2016" : 9830,
+    "totalWeatlh" : 46000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Hong Kong",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 53705,
+    "wealthPerAdult2000" : 117699,
+    "weatlhPerAdult2016" : 185281,
+    "totalWeatlh" : 1161000000000,
+    "shareOfWorldWealth2016" : 0.5
+  },
+  {
+    "name" : "Hungary",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 20218,
+    "wealthPerAdult2000" : 11892,
+    "weatlhPerAdult2016" : 33893,
+    "totalWeatlh" : 268000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Iceland",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 63335,
+    "wealthPerAdult2000" : 233121,
+    "weatlhPerAdult2016" : 408595,
+    "totalWeatlh" : 107000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "India",
+    "region" : "India",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3137,
+    "wealthPerAdult2000" : 2036,
+    "weatlhPerAdult2016" : 3835,
+    "totalWeatlh" : 3099000000000,
+    "shareOfWorldWealth2016" : 1.2
+  },
+  {
+    "name" : "Indonesia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 8638,
+    "wealthPerAdult2000" : 2502,
+    "weatlhPerAdult2016" : 10772,
+    "totalWeatlh" : 1769000000000,
+    "shareOfWorldWealth2016" : 0.7
+  },
+  {
+    "name" : "Iran",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10693,
+    "wealthPerAdult2000" : 2852,
+    "weatlhPerAdult2016" : 3955,
+    "totalWeatlh" : 219000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Iraq",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10156,
+    "wealthPerAdult2000" : 6101,
+    "weatlhPerAdult2016" : 12663,
+    "totalWeatlh" : 237000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Ireland",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 73226,
+    "wealthPerAdult2000" : 91525,
+    "weatlhPerAdult2016" : 214589,
+    "totalWeatlh" : 770000000000,
+    "shareOfWorldWealth2016" : 0.3
+  },
+  {
+    "name" : "Isle of Man",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 10,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Israel",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 53067,
+    "wealthPerAdult2000" : 92589,
+    "weatlhPerAdult2016" : 176263,
+    "totalWeatlh" : 909000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Italy",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 43425,
+    "wealthPerAdult2000" : 119773,
+    "weatlhPerAdult2016" : 202288,
+    "totalWeatlh" : 9973000000000,
+    "shareOfWorldWealth2016" : 3.9
+  },
+  {
+    "name" : "Jamaica",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9534,
+    "wealthPerAdult2000" : 8694,
+    "weatlhPerAdult2016" : 10073,
+    "totalWeatlh" : 18000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Japan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 61940,
+    "wealthPerAdult2000" : 191877,
+    "weatlhPerAdult2016" : 230946,
+    "totalWeatlh" : 24070000000000,
+    "shareOfWorldWealth2016" : 9.4
+  },
+  {
+    "name" : "Jordan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9731,
+    "wealthPerAdult2000" : 8233,
+    "weatlhPerAdult2016" : 15702,
+    "totalWeatlh" : 64000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Kazakhstan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 25326,
+    "wealthPerAdult2000" : 2368,
+    "weatlhPerAdult2016" : 4134,
+    "totalWeatlh" : 46000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Kenya",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2999,
+    "wealthPerAdult2000" : 1071,
+    "weatlhPerAdult2016" : 1869,
+    "totalWeatlh" : 42000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Kiribati",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 2965,
+    "wealthPerAdult2000" : 1998,
+    "weatlhPerAdult2016" : 6362,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Korea",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 37294,
+    "wealthPerAdult2000" : 51749,
+    "weatlhPerAdult2016" : 159914,
+    "totalWeatlh" : 6278000000000,
+    "shareOfWorldWealth2016" : 2.5
+  },
+  {
+    "name" : "Korea, North",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 848,
+    "wealthPerAdult2000" : 2500,
+    "weatlhPerAdult2016" : 45,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Kosovo",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 1092,
+    "wealthPerAdult2000" : 1921,
+    "weatlhPerAdult2016" : 3,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Kuwait",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 69555,
+    "wealthPerAdult2000" : 52307,
+    "weatlhPerAdult2016" : 119038,
+    "totalWeatlh" : 288000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Kyrgyzstan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2339,
+    "wealthPerAdult2000" : 1225,
+    "weatlhPerAdult2016" : 4806,
+    "totalWeatlh" : 18000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Laos",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3100,
+    "wealthPerAdult2000" : 1237,
+    "weatlhPerAdult2016" : 6687,
+    "totalWeatlh" : 26000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Latvia",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18408,
+    "wealthPerAdult2000" : 5261,
+    "weatlhPerAdult2016" : 22444,
+    "totalWeatlh" : 40000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Lebanon",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 17915,
+    "wealthPerAdult2000" : 20695,
+    "weatlhPerAdult2016" : 30730,
+    "totalWeatlh" : 94000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Lesotho",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3226,
+    "wealthPerAdult2000" : 972,
+    "weatlhPerAdult2016" : 2984,
+    "totalWeatlh" : 3000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Liberia",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 849,
+    "wealthPerAdult2000" : 570,
+    "weatlhPerAdult2016" : 2069,
+    "totalWeatlh" : 5000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Libya",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 23059,
+    "wealthPerAdult2000" : 33866,
+    "weatlhPerAdult2016" : 28828,
+    "totalWeatlh" : 130000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Liechtenstein",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 5,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Lithuania",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 20847,
+    "wealthPerAdult2000" : 6303,
+    "weatlhPerAdult2016" : 22411,
+    "totalWeatlh" : 56000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Luxembourg",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 144065,
+    "wealthPerAdult2000" : 182217,
+    "weatlhPerAdult2016" : 316466,
+    "totalWeatlh" : 128000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Macao",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 134109,
+    "wealthPerAdult2000" : 203806,
+    "weatlhPerAdult2016" : 97,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Macedonia",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7647,
+    "wealthPerAdult2000" : 5117,
+    "weatlhPerAdult2016" : 9646,
+    "totalWeatlh" : 15000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Madagascar",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1144,
+    "wealthPerAdult2000" : 682,
+    "weatlhPerAdult2016" : 364,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Malawi",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 832,
+    "wealthPerAdult2000" : 362,
+    "weatlhPerAdult2016" : 107,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Malaysia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 20100,
+    "wealthPerAdult2000" : 8342,
+    "weatlhPerAdult2016" : 24429,
+    "totalWeatlh" : 474000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Maldives",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 11055,
+    "wealthPerAdult2000" : 1857,
+    "weatlhPerAdult2016" : 7036,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mali",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1726,
+    "wealthPerAdult2000" : 465,
+    "weatlhPerAdult2016" : 947,
+    "totalWeatlh" : 7000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Malta",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 29113,
+    "wealthPerAdult2000" : 54069,
+    "weatlhPerAdult2016" : 116185,
+    "totalWeatlh" : 39000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Marshall Islands",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6101,
+    "wealthPerAdult2000" : 12663,
+    "weatlhPerAdult2016" : 1,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Martinique",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 6,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mauritania",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2766,
+    "wealthPerAdult2000" : 1469,
+    "weatlhPerAdult2016" : 1949,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mauritius",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 14215,
+    "wealthPerAdult2000" : 14574,
+    "weatlhPerAdult2016" : 34549,
+    "totalWeatlh" : 33000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mayotte",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : null,
+    "wealthPerAdult2000" : 510,
+    "weatlhPerAdult2016" : 948,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mexico",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18358,
+    "wealthPerAdult2000" : 17484,
+    "weatlhPerAdult2016" : 21125,
+    "totalWeatlh" : 1621000000000,
+    "shareOfWorldWealth2016" : 0.6
+  },
+  {
+    "name" : "Micronesia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : null,
+    "wealthPerAdult2000" : 1998,
+    "weatlhPerAdult2016" : 6362,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Moldova",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 3704,
+    "wealthPerAdult2000" : 671,
+    "weatlhPerAdult2016" : 3212,
+    "totalWeatlh" : 9000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Monaco",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 5,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Mongolia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 11371,
+    "wealthPerAdult2000" : 2847,
+    "weatlhPerAdult2016" : 18035,
+    "totalWeatlh" : 35000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Montenegro",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10259,
+    "wealthPerAdult2000" : 3392,
+    "weatlhPerAdult2016" : 18778,
+    "totalWeatlh" : 9000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Morocco",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 5883,
+    "wealthPerAdult2000" : 6117,
+    "weatlhPerAdult2016" : 10623,
+    "totalWeatlh" : 237000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Mozambique",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1845,
+    "wealthPerAdult2000" : 438,
+    "weatlhPerAdult2016" : 520,
+    "totalWeatlh" : 6000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Myanmar",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1540,
+    "wealthPerAdult2000" : 528,
+    "weatlhPerAdult2016" : 2221,
+    "totalWeatlh" : 79000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Namibia",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 12524,
+    "wealthPerAdult2000" : 6276,
+    "weatlhPerAdult2016" : 13298,
+    "totalWeatlh" : 18000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Nepal",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1345,
+    "wealthPerAdult2000" : 780,
+    "weatlhPerAdult2016" : 2009,
+    "totalWeatlh" : 37000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Netherlands",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 66890,
+    "wealthPerAdult2000" : 106872,
+    "weatlhPerAdult2016" : 184378,
+    "totalWeatlh" : 2412000000000,
+    "shareOfWorldWealth2016" : 0.9
+  },
+  {
+    "name" : "Netherlands Antilles",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 3,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "New Caledonia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 134109,
+    "wealthPerAdult2000" : 203806,
+    "weatlhPerAdult2016" : 38,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "New Zealand",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 59024,
+    "wealthPerAdult2000" : 67052,
+    "weatlhPerAdult2016" : 298930,
+    "totalWeatlh" : 995000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Nicaragua",
+    "region" : "Latin America",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2582,
+    "wealthPerAdult2000" : 2342,
+    "weatlhPerAdult2016" : 3392,
+    "totalWeatlh" : 12000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Niger",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1336,
+    "wealthPerAdult2000" : 345,
+    "weatlhPerAdult2016" : 970,
+    "totalWeatlh" : 7000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Nigeria",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3865,
+    "wealthPerAdult2000" : 1591,
+    "weatlhPerAdult2016" : 1904,
+    "totalWeatlh" : 164000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Northern Mariana Islands",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 134109,
+    "wealthPerAdult2000" : 203806,
+    "weatlhPerAdult2016" : 11,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Norway",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 135155,
+    "wealthPerAdult2000" : 110805,
+    "weatlhPerAdult2016" : 312339,
+    "totalWeatlh" : 1195000000000,
+    "shareOfWorldWealth2016" : 0.5
+  },
+  {
+    "name" : "Oman",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 37439,
+    "wealthPerAdult2000" : 22478,
+    "weatlhPerAdult2016" : 52664,
+    "totalWeatlh" : 105000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Pakistan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2618,
+    "wealthPerAdult2000" : 2399,
+    "weatlhPerAdult2016" : 4595,
+    "totalWeatlh" : 524000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Palau",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : null,
+    "wealthPerAdult2000" : 6101,
+    "weatlhPerAdult2016" : 12663,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Panama",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18266,
+    "wealthPerAdult2000" : 8546,
+    "weatlhPerAdult2016" : 23428,
+    "totalWeatlh" : 57000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Papua New Guinea",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 6526,
+    "wealthPerAdult2000" : 1632,
+    "weatlhPerAdult2016" : 8851,
+    "totalWeatlh" : 36000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Paraguay",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 7588,
+    "wealthPerAdult2000" : 4320,
+    "weatlhPerAdult2016" : 10175,
+    "totalWeatlh" : 42000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Peru",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 11925,
+    "wealthPerAdult2000" : 6482,
+    "weatlhPerAdult2016" : 26292,
+    "totalWeatlh" : 520000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Philippines",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 4679,
+    "wealthPerAdult2000" : 2768,
+    "weatlhPerAdult2016" : 9878,
+    "totalWeatlh" : 595000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Poland",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 20788,
+    "wealthPerAdult2000" : 8871,
+    "weatlhPerAdult2016" : 24584,
+    "totalWeatlh" : 746000000000,
+    "shareOfWorldWealth2016" : 0.3
+  },
+  {
+    "name" : "Portugal",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 28077,
+    "wealthPerAdult2000" : 48008,
+    "weatlhPerAdult2016" : 77113,
+    "totalWeatlh" : 667000000000,
+    "shareOfWorldWealth2016" : 0.3
+  },
+  {
+    "name" : "Puerto Rico",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 59,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Qatar",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 132000,
+    "wealthPerAdult2000" : 26533,
+    "weatlhPerAdult2016" : 161666,
+    "totalWeatlh" : 210000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Reunion",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 8651,
+    "wealthPerAdult2000" : 16079,
+    "weatlhPerAdult2016" : 10,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Romania",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 14634,
+    "wealthPerAdult2000" : 3840,
+    "weatlhPerAdult2016" : 13815,
+    "totalWeatlh" : 229000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Russia",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 24945,
+    "wealthPerAdult2000" : 2935,
+    "weatlhPerAdult2016" : 10344,
+    "totalWeatlh" : 1126000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Rwanda",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1677,
+    "wealthPerAdult2000" : 392,
+    "weatlhPerAdult2016" : 760,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Samoa",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 8594,
+    "wealthPerAdult2000" : 8937,
+    "weatlhPerAdult2016" : 37838,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "San Marino",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 71489,
+    "wealthPerAdult2000" : 145569,
+    "weatlhPerAdult2016" : 5,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Sao Tome and Principe",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 5582,
+    "wealthPerAdult2000" : 3085,
+    "weatlhPerAdult2016" : 3812,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Saudi Arabia",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 37669,
+    "wealthPerAdult2000" : 23388,
+    "weatlhPerAdult2016" : 40555,
+    "totalWeatlh" : 725000000000,
+    "shareOfWorldWealth2016" : 0.3
+  },
+  {
+    "name" : "Senegal",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2525,
+    "wealthPerAdult2000" : 1436,
+    "weatlhPerAdult2016" : 2520,
+    "totalWeatlh" : 18000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Serbia",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9624,
+    "wealthPerAdult2000" : 2826,
+    "weatlhPerAdult2016" : 6906,
+    "totalWeatlh" : 52000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Seychelles",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 18998,
+    "wealthPerAdult2000" : 34466,
+    "weatlhPerAdult2016" : 61619,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Sierra Leone",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1282,
+    "wealthPerAdult2000" : 273,
+    "weatlhPerAdult2016" : 637,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Singapore",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 67884,
+    "wealthPerAdult2000" : 112757,
+    "weatlhPerAdult2016" : 276885,
+    "totalWeatlh" : 1138000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Slovakia",
+    "region" : "Europe",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 25925,
+    "wealthPerAdult2000" : 9547,
+    "weatlhPerAdult2016" : 24992,
+    "totalWeatlh" : 108000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Slovenia",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 31511,
+    "wealthPerAdult2000" : 33564,
+    "weatlhPerAdult2016" : 57376,
+    "totalWeatlh" : 95000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Solomon Islands",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3644,
+    "wealthPerAdult2000" : 6778,
+    "weatlhPerAdult2016" : 10071,
+    "totalWeatlh" : 3000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Somalia",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 510,
+    "wealthPerAdult2000" : 948,
+    "weatlhPerAdult2016" : 5,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "South Africa",
+    "region" : "Africa",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 15158,
+    "wealthPerAdult2000" : 8434,
+    "weatlhPerAdult2016" : 20589,
+    "totalWeatlh" : 650000000000,
+    "shareOfWorldWealth2016" : 0.3
+  },
+  {
+    "name" : "Spain",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 40622,
+    "wealthPerAdult2000" : 64521,
+    "weatlhPerAdult2016" : 116320,
+    "totalWeatlh" : 4396000000000,
+    "shareOfWorldWealth2016" : 1.7
+  },
+  {
+    "name" : "Sri Lanka",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6033,
+    "wealthPerAdult2000" : 1247,
+    "weatlhPerAdult2016" : 4772,
+    "totalWeatlh" : 70000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "St. Kitts and Nevis",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 21200,
+    "wealthPerAdult2000" : 11057,
+    "weatlhPerAdult2016" : 25950,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "St. Lucia",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 13200,
+    "wealthPerAdult2000" : 5631,
+    "weatlhPerAdult2016" : 15405,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "St. Vincent and the Grenadines",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 11914,
+    "wealthPerAdult2000" : 4705,
+    "weatlhPerAdult2016" : 11999,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Sudan",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3145,
+    "wealthPerAdult2000" : 916,
+    "weatlhPerAdult2016" : 1070,
+    "totalWeatlh" : 27000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Suriname",
+    "region" : "Latin America",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 17402,
+    "wealthPerAdult2000" : 4762,
+    "weatlhPerAdult2016" : 8970,
+    "totalWeatlh" : 3000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Swaziland",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6679,
+    "wealthPerAdult2000" : 3837,
+    "weatlhPerAdult2016" : 3179,
+    "totalWeatlh" : 2000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Sweden",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 86865,
+    "wealthPerAdult2000" : 73046,
+    "weatlhPerAdult2016" : 227295,
+    "totalWeatlh" : 1683000000000,
+    "shareOfWorldWealth2016" : 0.7
+  },
+  {
+    "name" : "Switzerland",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 100903,
+    "wealthPerAdult2000" : 232548,
+    "weatlhPerAdult2016" : 561854,
+    "totalWeatlh" : 3478000000000,
+    "shareOfWorldWealth2016" : 1.4
+  },
+  {
+    "name" : "Syria",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 3363,
+    "wealthPerAdult2000" : 1846,
+    "weatlhPerAdult2016" : 26,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Taiwan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 32647,
+    "wealthPerAdult2000" : 108623,
+    "weatlhPerAdult2016" : 172847,
+    "totalWeatlh" : 3199000000000,
+    "shareOfWorldWealth2016" : 1.3
+  },
+  {
+    "name" : "Tajikistan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1968,
+    "wealthPerAdult2000" : 666,
+    "weatlhPerAdult2016" : 2292,
+    "totalWeatlh" : 10000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Tanzania",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1640,
+    "wealthPerAdult2000" : 541,
+    "weatlhPerAdult2016" : 887,
+    "totalWeatlh" : 21000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Thailand",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 10080,
+    "wealthPerAdult2000" : 2570,
+    "weatlhPerAdult2016" : 7926,
+    "totalWeatlh" : 402000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "Timor-Leste",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 8708,
+    "wealthPerAdult2000" : 1998,
+    "weatlhPerAdult2016" : 6362,
+    "totalWeatlh" : 4000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Togo",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1049,
+    "wealthPerAdult2000" : 1032,
+    "weatlhPerAdult2016" : 2281,
+    "totalWeatlh" : 9000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Tonga",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 9705,
+    "wealthPerAdult2000" : 4909,
+    "weatlhPerAdult2016" : 13820,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Trinidad and Tobago",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 32629,
+    "wealthPerAdult2000" : 5699,
+    "weatlhPerAdult2016" : 16004,
+    "totalWeatlh" : 16000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Tunisia",
+    "region" : "Africa",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6991,
+    "wealthPerAdult2000" : 11459,
+    "weatlhPerAdult2016" : 17136,
+    "totalWeatlh" : 133000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Turkey",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 20807,
+    "wealthPerAdult2000" : 12342,
+    "weatlhPerAdult2016" : 19685,
+    "totalWeatlh" : 1063000000000,
+    "shareOfWorldWealth2016" : 0.4
+  },
+  {
+    "name" : "Turkmenistan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 12182,
+    "wealthPerAdult2000" : 9211,
+    "weatlhPerAdult2016" : 50230,
+    "totalWeatlh" : 177000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Uganda",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 1518,
+    "wealthPerAdult2000" : 332,
+    "weatlhPerAdult2016" : 685,
+    "totalWeatlh" : 11000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Ukraine",
+    "region" : "Europe",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6796,
+    "wealthPerAdult2000" : 941,
+    "weatlhPerAdult2016" : 1254,
+    "totalWeatlh" : 44000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "United Arab Emirates",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 91136,
+    "wealthPerAdult2000" : 56903,
+    "weatlhPerAdult2016" : 151098,
+    "totalWeatlh" : 597000000000,
+    "shareOfWorldWealth2016" : 0.2
+  },
+  {
+    "name" : "United Kingdom",
+    "region" : "Europe",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 58878,
+    "wealthPerAdult2000" : 162999,
+    "weatlhPerAdult2016" : 288808,
+    "totalWeatlh" : 14150000000000,
+    "shareOfWorldWealth2016" : 5.5
+  },
+  {
+    "name" : "United States",
+    "region" : "North America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 75992,
+    "wealthPerAdult2000" : 206116,
+    "weatlhPerAdult2016" : 344692,
+    "totalWeatlh" : 84784000000000,
+    "shareOfWorldWealth2016" : 33.2
+  },
+  {
+    "name" : "Uruguay",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 26108,
+    "wealthPerAdult2000" : 20432,
+    "weatlhPerAdult2016" : 36651,
+    "totalWeatlh" : 90000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Uzbekistan",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3650,
+    "wealthPerAdult2000" : 1998,
+    "weatlhPerAdult2016" : 6362,
+    "totalWeatlh" : 121000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Vanuatu",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 6944,
+    "wealthPerAdult2000" : 2338,
+    "weatlhPerAdult2016" : 5766,
+    "totalWeatlh" : 1000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Venezuela",
+    "region" : "Latin America",
+    "incomeGroup" : "Upper middle income",
+    "gdpPerAdult2016" : 16890,
+    "wealthPerAdult2000" : 9855,
+    "weatlhPerAdult2016" : 4221,
+    "totalWeatlh" : 84000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Vietnam",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2802,
+    "wealthPerAdult2000" : 1727,
+    "weatlhPerAdult2016" : 5275,
+    "totalWeatlh" : 342000000000,
+    "shareOfWorldWealth2016" : 0.1
+  },
+  {
+    "name" : "Virgin Islands (U.S.)",
+    "region" : "Latin America",
+    "incomeGroup" : "High income",
+    "gdpPerAdult2016" : 18830,
+    "wealthPerAdult2000" : 19323,
+    "weatlhPerAdult2016" : 2,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "West Bank and Gaza",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Lower middle income",
+    "gdpPerAdult2016" : 1998,
+    "wealthPerAdult2000" : 6362,
+    "weatlhPerAdult2016" : 15,
+    "totalWeatlh" : null,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Yemen",
+    "region" : "Asia-Pacific",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 3325,
+    "wealthPerAdult2000" : 1633,
+    "weatlhPerAdult2016" : 4752,
+    "totalWeatlh" : 64000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Zambia",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 4367,
+    "wealthPerAdult2000" : 696,
+    "weatlhPerAdult2016" : 1021,
+    "totalWeatlh" : 7000000000,
+    "shareOfWorldWealth2016" : 0.0
+  },
+  {
+    "name" : "Zimbabwe",
+    "region" : "Africa",
+    "incomeGroup" : "Low income",
+    "gdpPerAdult2016" : 2048,
+    "wealthPerAdult2000" : 1079,
+    "weatlhPerAdult2016" : 3933,
+    "totalWeatlh" : 29000000000,
+    "shareOfWorldWealth2016" : 0.0
+  }
+]

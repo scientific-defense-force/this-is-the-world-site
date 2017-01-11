@@ -4,7 +4,7 @@ services:
   dev:
     build: .
     working_dir: /work
-    command: [bundle, exec, jekyll, serve, --incremental, -H, 0.0.0.0]
+    command: ./run
     volumes:
       - .:/work
       - ruby2.3-gem-cache:/usr/local/bundle

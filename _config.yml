@@ -2,7 +2,7 @@ title: This Is The World
 baseurl: ""
 analytics_id: TO_SET
 exclude: ['auto']
-url: https://thisistheworld.net
+# url: https://thisistheworld.net
 
 # Build settings
 markdown: kramdown
@@ -11,10 +11,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
