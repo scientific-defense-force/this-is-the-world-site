@@ -1,0 +1,23 @@
+<div id="myDiv" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="myDiv2" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+  var trace1 = {
+    x: ['non-oecd', 'oecd'],
+    y: [6071997000, 1269559000],
+    name: 'Population',
+    type: 'bar'
+  };
+
+  var trace2 = {
+    x: ['non-oecd', 'oecd'],
+    y: [49520000000000, 205513000000000],
+    name: 'Household Wealth',
+    type: 'bar'
+  };
+
+  // var layout = {barmode: 'group'};
+
+  Plotly.newPlot('myDiv', [trace1]);
+  Plotly.newPlot('myDiv2', [trace2]);
+</script>
