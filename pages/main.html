@@ -3,21 +3,25 @@
 
 <script>
   var trace1 = {
-    x: ['non-oecd', 'oecd'],
-    y: [6071997000, 1269559000],
+    x: ['non-wenao', 'wenao'],
+    y: [6324568000, 1016988000],
     name: 'Population',
-    type: 'bar'
+    type: 'bar',
+    marker: {
+      color: ['blue', 'orange']
+    }
   };
 
   var trace2 = {
-    x: ['non-oecd', 'oecd'],
-    y: [49520000000000, 205513000000000],
+    x: ['non-wenao', 'wenao'],
+    y: [60490000000000, 194543000000000],
     name: 'Household Wealth',
-    type: 'bar'
+    type: 'bar',
+    marker: {
+      color: ['blue', 'orange']
+    }
   };
 
-  // var layout = {barmode: 'group'};
-
-  Plotly.newPlot('myDiv', [trace1]);
-  Plotly.newPlot('myDiv2', [trace2]);
+  Plotly.newPlot('myDiv', [trace1], { title: 'Population' });
+  Plotly.newPlot('myDiv2', [trace2], { title: 'Household Wealth' });
 </script>
