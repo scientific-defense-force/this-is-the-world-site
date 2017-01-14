@@ -1,5 +1,6 @@
 <div id="myDiv" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 <div id="myDiv2" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="myDiv3" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 
 <script>
   var trace1 = {
@@ -22,6 +23,17 @@
     }
   };
 
-  Plotly.newPlot('myDiv', [trace1], { title: 'Population' });
-  Plotly.newPlot('myDiv2', [trace2], { title: 'Household Wealth' });
+  var trace3 = {
+    x: ['non-wenao', 'wenao'],
+    y: [9654, 191293],
+    name: 'Average Wealth Per Person',
+    type: 'bar',
+    marker: {
+      color: ['blue', 'orange']
+    }
+  };
+
+  Plotly.newPlot('myDiv', [trace1], { title: 'Population' }, { displayModeBar: false });
+  Plotly.newPlot('myDiv2', [trace2], { title: 'Household Wealth' }, { displayModeBar: false });
+  Plotly.newPlot('myDiv3', [trace3], { title: 'Average Wealth Per Person' }, { displayModeBar: false });
 </script>
