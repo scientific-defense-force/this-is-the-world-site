@@ -8,43 +8,18 @@
 </div>
 
 <div class="row">
-  <div id="myDiv" class="col-lg-4"></div>
-  <div id="myDiv2" class="col-lg-4"></div>
-  <div id="myDiv3" class="col-lg-4"></div>
+  <div id="population-graph" class="col-lg-4"></div>
+  <div id="household-wealth-graph" class="col-lg-4"></div>
+  <div id="average-wealth-graph" class="col-lg-4"></div>
 </div>
 
-<script>
-  var trace1 = {
-    x: ['non-wenao', 'wenao'],
-    y: [6324568000, 1016988000],
-    name: 'Population',
-    type: 'bar',
-    marker: {
-      color: ['blue', 'orange']
-    }
-  };
+<h2>This Isn't The Full Picture Though</h2>
 
-  var trace2 = {
-    x: ['non-wenao', 'wenao'],
-    y: [60490000000000, 194543000000000],
-    name: 'Household Wealth',
-    type: 'bar',
-    marker: {
-      color: ['blue', 'orange']
-    }
-  };
+<p>This simplifies things into 2 main groups, however in actuality there are 4. Let's drill into the wealth distribution of the WENAO and non-WENAO countries</p>
 
-  var trace3 = {
-    x: ['non-wenao', 'wenao'],
-    y: [9654, 191293],
-    name: 'Average Wealth Per Person',
-    type: 'bar',
-    marker: {
-      color: ['blue', 'orange']
-    }
-  };
+<div class="row">
+  <div id="drill-down-graph" class="col-lg-4"></div>
+  <div id="drill-down-per-person-graph" class="col-lg-4"></div>
+</div>
 
-  Plotly.newPlot('myDiv', [trace1], { title: 'Population' }, { displayModeBar: false });
-  Plotly.newPlot('myDiv2', [trace2], { title: 'Household Wealth' }, { displayModeBar: false });
-  Plotly.newPlot('myDiv3', [trace3], { title: 'Average Wealth Per Person' }, { displayModeBar: false });
-</script>
+<script src="script/main-graphs.js"></script>

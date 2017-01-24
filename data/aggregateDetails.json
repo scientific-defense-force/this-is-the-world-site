@@ -1,6 +1,10 @@
 {
-  "otherTotalWealth" : 60490000000000,
+  "otherTotalWealth" : 61157000000000,
   "wenaoTotalWealth" : 194543000000000,
   "otherTotalPopulation" : 6324568000,
-  "wenaoTotalPopulation" : 1016988000
+  "wenaoTotalPopulation" : 1016988000,
+  "other1PercentWealth" : 16626636799999,
+  "other99PercentWealth" : 44530363200001,
+  "wenao1PercentWealth" : 111970007200000,
+  "wenao99PercentWealth" : 82572992800000
 }
