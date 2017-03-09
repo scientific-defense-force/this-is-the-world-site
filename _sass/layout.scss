@@ -58,3 +58,15 @@ nav {
     color: #1a1a1a;
   }
 }
+
+.the-four-groups-image {
+  max-width:100%;
+  max-height:100%;
+}
+
+@media (max-width: 1000px) {
+  .main-content {
+    width: auto;
+    padding: 0 20px;
+  }
+}
