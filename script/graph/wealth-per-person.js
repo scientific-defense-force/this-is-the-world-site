@@ -8,5 +8,24 @@ var data = {
   }
 };
 
+var annotationContent = [];
 
-Plotly.newPlot('average-wealth-graph', [data], { title: 'Average Wealth Per Person' }, { displayModeBar: false });
+for( var i = 0 ; i < data.x.length ; i++ ){
+  var result = {
+    x: data.x[i],
+    y: data.y[i],
+    text: numbro(data.y[i]).formatCurrency('0 a'),
+    xanchor: 'center',
+    yanchor: 'bottom',
+    showarrow: false
+  };
+  annotationContent.push(result);
+}
+
+var layout = {
+  title: 'Average Wealth Per Person',
+  annotations: annotationContent
+};
+
+
+Plotly.newPlot('average-wealth-graph', [data], layout, { displayModeBar: false });
