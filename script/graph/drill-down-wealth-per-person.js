@@ -27,4 +27,4 @@ var layout = {
   annotations: annotationContent
 };
 
-Plotly.newPlot('drill-down-wealth-per-person-graph', [data], layout, { displayModeBar: false });
+Plotly.newPlot('drill-down-wealth-per-person-graph', [data], layout, { staticPlot: true });

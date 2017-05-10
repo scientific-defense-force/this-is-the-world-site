@@ -27,4 +27,4 @@ var layout = {
   annotations: annotationContent
 };
 
-Plotly.newPlot('household-wealth-graph', [data], layout, { displayModeBar: false });
+Plotly.newPlot('household-wealth-graph', [data], layout, { staticPlot: true });

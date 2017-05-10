@@ -28,4 +28,4 @@ var layout = {
 };
 
 
-Plotly.newPlot('average-wealth-graph', [data], layout, { displayModeBar: false });
+Plotly.newPlot('average-wealth-graph', [data], layout, { staticPlot: true });

@@ -27,4 +27,4 @@ var layout = {
   annotations: annotationContent
 };
 
-Plotly.newPlot('population-graph', [data], layout, { displayModeBar: false });
+Plotly.newPlot('population-graph', [data], layout, { staticPlot: true });

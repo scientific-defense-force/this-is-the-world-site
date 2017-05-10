@@ -27,4 +27,4 @@ var layout = {
   annotations: annotationContent
 };
 
-Plotly.newPlot('drill-down-wealth-graph', [data], layout, { displayModeBar: false });
+Plotly.newPlot('drill-down-wealth-graph', [data], layout, { staticPlot: true });
