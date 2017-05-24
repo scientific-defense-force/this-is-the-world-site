@@ -3,7 +3,7 @@ baseurl: ""
 analytics_id: TO_SET
 exclude: ['auto']
 url: https://thisistheworld.net
-
+analytics_id: UA-99830249-1
 # Build settings
 markdown: kramdown
 
