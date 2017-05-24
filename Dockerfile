@@ -9,3 +9,8 @@ RUN FILE="nodejs_7.10.0-1nodesource1~jessie1_amd64.deb"; \
     wget "https://deb.nodesource.com/node_7.x/pool/main/n/nodejs/$FILE" -qO $FILE \
     && dpkg -i $FILE \
     && rm $FILE
+
+RUN wget https://bootstrap.pypa.io/get-pip.py \
+  && python get-pip.py
+
+RUN pip install proselint==0.8.0
