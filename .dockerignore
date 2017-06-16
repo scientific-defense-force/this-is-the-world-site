@@ -1,7 +1,3 @@
-_site
-.sass-cache
-.jekyll-metadata
 .DS_Store
-vendor
-.bundle
 .git*
+auto
