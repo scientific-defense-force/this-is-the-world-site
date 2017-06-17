@@ -1,5 +1,7 @@
 # This Is The World Site
 
+[![Join the chat at https://gitter.im/scientific-defense-force](https://badges.gitter.im/scientific-defense-force.svg)](https://gitter.im/scientific-defense-force/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction
 
 This repo is for [thisistheworld.net](https://thisistheworld.net). The goal of this site is to communicate the level of economic inequality in the world. This includes the desperateness of the world's large majority of poor people and the first worlds parasitic relationship with them.
