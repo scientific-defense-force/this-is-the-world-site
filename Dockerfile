@@ -1,10 +1,3 @@
-FROM ruby:2.4.1
+FROM jekyll/jekyll:pages@sha256:922abf8d00a4b0b29e7b60077aae1b081bddc2de608072be5a635d00ea1c9cc1
 
-# ruby base doesn't specify locale
-ENV LANG C.UTF-8
-
-# required because pages-gem depends on jekyll-coffeescript :/
-RUN curl -sL https://deb.nodesource.com/setup_8.x | bash - \
-  && apt-get install -y nodejs \
-  && apt-get clean \
-  && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+RUN gem install 'html-proofer'

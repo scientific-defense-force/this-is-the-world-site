@@ -3,11 +3,12 @@ version: '2'
 services:
   dev:
     build: .
-    working_dir: /work
+    working_dir: /srv/jekyll
     command: ./run
     volumes:
-      - .:/work
-      - ruby2.4-gem-cache:/usr/local/bundle
+      - .:/srv/jekyll
+      - jekyll-apk-cache:/var/cache/apk/
+      # - ruby2.4-gem-cache:/usr/local/bundle
     ports:
       - "4000:4000"
   prod:
@@ -18,4 +19,6 @@ services:
 
 volumes:
   ruby2.4-gem-cache:
+    external: true
+  jekyll-apk-cache:
     external: true
