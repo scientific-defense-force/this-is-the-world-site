@@ -32,6 +32,16 @@ h1 {
   display: inline-block;
 }
 
+@media (max-width: 800px) {
+  h1 {
+    position: static;
+  }
+
+  .nav-bar {
+    padding-left: 0;
+  }
+}
+
 .page-header {
   text-align: center;
   font-size: 2em;
