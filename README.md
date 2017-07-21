@@ -1,6 +1,6 @@
 # This Is The World Site
 
-[![Join the chat at https://gitter.im/scientific-defense-force](https://badges.gitter.im/scientific-defense-force.svg)](https://gitter.im/scientific-defense-force/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/scientific-defense-force/this-is-the-world-site.svg?branch=master)](https://travis-ci.org/scientific-defense-force/this-is-the-world-site) [![Join the chat at https://gitter.im/scientific-defense-force](https://badges.gitter.im/scientific-defense-force.svg)](https://gitter.im/scientific-defense-force/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Introduction
 
