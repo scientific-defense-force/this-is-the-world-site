@@ -31,7 +31,7 @@ auto/update-gems
 To run in prod mode
 
 ```bash
-auto/prod-environment bash
+auto/prod-environment
 ```
 
 ### Browser Support ###
