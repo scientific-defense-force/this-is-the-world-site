@@ -12,6 +12,10 @@ The target audience is the first world middle class.
 
 Capitalism and globalization are causing a lot of problems, but nothing will change unless the global middle class are aware of the issues. Currently they appear to be vaguely aware of the inequality but don't perceive the parasitism.
 
+## Data
+
+Data is produced by using the [Credit Suisse yearly global wealth report](https://www.credit-suisse.com/au/en/about-us/research/research-institute/global-wealth-report.html) and this code https://github.com/scientific-defense-force/this-is-the-world-ingestion .
+
 ## Technical
 
 To run the site install [docker](https://www.docker.com/products/docker) (note: on linux you will also need to manually install [docker compose](https://docs.docker.com/compose/install)) and then
