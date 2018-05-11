@@ -1,6 +1,6 @@
 var data = {
   x: ['non-wenao', 'wenao'],
-  y: [9654, 191293],
+  y: [10983, 206172],
   name: 'Average Wealth Per Person',
   type: 'bar',
   marker: {
