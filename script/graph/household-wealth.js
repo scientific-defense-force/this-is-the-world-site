@@ -1,6 +1,6 @@
 var data = {
   x: ['non-wenao', 'wenao'],
-  y: [60490000000000, 194543000000000],
+  y: [71139000000000, 209105000000000],
   name: 'Household Wealth',
   type: 'bar',
   marker: {
