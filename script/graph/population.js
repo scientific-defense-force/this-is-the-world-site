@@ -1,6 +1,6 @@
 var data = {
   x: ['non-wenao', 'wenao'],
-  y: [6477333000, 1014228000],
+  y: [6559679000, 1019294000],
   name: 'Population',
   type: 'bar',
   marker: {
