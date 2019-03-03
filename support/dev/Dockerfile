@@ -9,5 +9,5 @@ ENV LANG C.UTF-8
 RUN echo "deb http://deb.debian.org/debian testing main contrib non-free" >> /etc/apt/sources.list.d/testing.list
 
 RUN apt-get update \
- && apt-get install -y hunspell/testing \
+ && apt-get install -y --no-install-recommends hunspell/testing \
  && apt-get clean
