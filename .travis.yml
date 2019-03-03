@@ -1,7 +1,16 @@
+# yamllint disable rule:key-duplicates
 sudo: required
 install: true
 
 services:
-  - docker
+- docker
 
-script: auto/verify
+script: auto/verify-html
+script: auto/verify-spelling
+
+jobs:
+  include:
+  - stage: Test
+    script: auto/verify-html
+  -
+    script: auto/verify-spelling

@@ -3,4 +3,5 @@ set -Eexuo pipefail
 
 cd $(dirname $0)/..
 
-service=prod auto/dev-environment "$@"
+auto/update-docker
+auto/update-gems

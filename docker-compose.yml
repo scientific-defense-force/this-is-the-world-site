@@ -2,20 +2,30 @@ version: '2'
 
 services:
   dev:
-    build: .
+    build:
+      dockerfile: support/dev/Dockerfile
+      context: .
     working_dir: /work
-    command: ./run
+    command: support/dev/run
     volumes:
-      - .:/work
-      - ruby2.4-gem-cache:/usr/local/bundle
+    - .:/work
+    - ruby2.5-gem-cache:/usr/local/bundle
     ports:
-      - "4000:4000"
+    - 4000:4000
+
   prod:
     environment:
-      - JEKYLL_ENV=production
+    - JEKYLL_ENV=production
     extends:
       service: dev
 
+  yamllint:
+    build: support/yamllint
+    command: yamllint --strict .
+    volumes:
+    - .:/work
+    working_dir: /work
+
 volumes:
-  ruby2.4-gem-cache:
+  ruby2.5-gem-cache:
     external: true

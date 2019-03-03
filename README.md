@@ -26,18 +26,24 @@ auto/dev-environment
 
 Site can be accessed at http://localhost:4000
 
-To update gems run
-
-```
-auto/update-gems
-```
-
-To run in prod mode
+### Running in prod mode
 
 ```bash
 auto/prod-environment
 ```
 
-### Browser Support ###
+### Updating dependencies
+
+```bash
+auto/update-all
+```
+
+### Verifying changes
+
+```bash
+auto/verify
+```
+
+### Browser Support
 
 These browsers and versions http://browsehappy.com

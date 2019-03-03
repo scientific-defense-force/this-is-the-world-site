@@ -1,6 +1,6 @@
 var data = {
   x: ['90% non-wenao', '10% non-wenao', '99% wenao', '1% wenao'],
-  y: [12047921579920, 59091078420080, 88314864471441, 120790135528559],
+  y: [12666671923200, 84645328076800, 87664716403200, 132079283596800],
   name: 'Total Wealth Split By Wealth Bracket',
   type: 'bar',
   marker: {

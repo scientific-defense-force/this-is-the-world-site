@@ -3,4 +3,4 @@ set -Eexuo pipefail
 
 cd $(dirname $0)/..
 
-service=prod auto/dev-environment "$@"
+auto/dev-environment bin/spell-check.sh

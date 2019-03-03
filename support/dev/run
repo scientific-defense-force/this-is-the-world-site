@@ -1,3 +1,4 @@
-#! /bin/bash -e
+#!/bin/bash
+set -Eexuo pipefail
 
 bundle exec jekyll serve --incremental -H 0.0.0.0
