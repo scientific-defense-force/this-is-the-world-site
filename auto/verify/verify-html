@@ -1,0 +1,8 @@
+#!/bin/bash
+set -Eexuo pipefail
+
+cd "$(dirname "$0")"/../..
+
+# --url-ignore is used to avoid checking links that don't exist until a change is merged and deployed. This means PRs won't fail due to missing links (eg. cannonical URL on the site)
+
+auto/dev-environment bash -c 'bundle exec jekyll build && bundle exec htmlproofer ./_site --url-ignore=#,#0,/thisistheworld.net/ --assume-extension'

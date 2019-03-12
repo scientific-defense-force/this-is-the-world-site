@@ -1,7 +1,8 @@
 title: This Is The World
 baseurl: ""
-exclude: ['auto']
+exclude: ['auto', 'support']
 analytics_id: UA-99830249-1
+url: https://thisistheworld.net
 
 # Build settings
 markdown: kramdown

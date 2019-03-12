@@ -1,3 +1,4 @@
+# stuck on 2 as we need `extends`. Alternatives seem bad. https://github.com/moby/moby/issues/31101
 version: '2'
 
 services:
@@ -5,11 +6,16 @@ services:
     build:
       dockerfile: support/dev/Dockerfile
       context: .
+    command: bash
     working_dir: /work
-    command: support/dev/run
     volumes:
     - .:/work
     - ruby2.5-gem-cache:/usr/local/bundle
+
+  dev-run:
+    extends:
+      service: dev
+    command: support/dev/run
     ports:
     - 4000:4000
 
@@ -17,11 +23,11 @@ services:
     environment:
     - JEKYLL_ENV=production
     extends:
-      service: dev
+      service: dev-run
 
   yamllint:
     build: support/yamllint
-    command: yamllint --strict .
+    command: support/yamllint/run
     volumes:
     - .:/work
     working_dir: /work

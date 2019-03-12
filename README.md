@@ -21,7 +21,7 @@ Data is produced by using the [Credit Suisse yearly global wealth report](https:
 To run the site install [docker](https://www.docker.com/products/docker) (note: on linux you will also need to manually install [docker compose](https://docs.docker.com/compose/install)) and then
 
 ```bash
-auto/dev-environment
+auto/run
 ```
 
 Site can be accessed at http://localhost:4000
@@ -35,14 +35,26 @@ auto/prod-environment
 ### Updating dependencies
 
 ```bash
-auto/update-all
+auto/update/update-all
 ```
 
 ### Verifying changes
 
+This currently checks:
+
+- the links are valid with [html-proofer](https://github.com/gjtorikian/html-proofer)
+- spelling mistakes via [hunspell](http://hunspell.github.io)
+- yaml issues with [yamllint](https://yamllint.readthedocs.io)
+- docker issues with [hadolint](https://github.com/hadolint/hadolint)
+- shell issues with [shellcheck](https://github.com/koalaman/shellcheck)
+
 ```bash
-auto/verify
+auto/verify/verify-all
 ```
+
+#### Adding new words to be skipped by the spell checker
+
+Update the [custom dictionary](/custom-dict.dic) file. I don't understand [the format](https://www.elastic.co/guide/en/elasticsearch/guide/current/hunspell.html) very well..
 
 ### Browser Support
 
