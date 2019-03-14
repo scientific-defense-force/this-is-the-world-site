@@ -4,6 +4,12 @@ exclude: ['auto', 'support']
 analytics_id: UA-99830249-1
 url: https://thisistheworld.net
 
+# this will strip all pages of the .html extension when jekyll generates a url
+permalink: /:categories/:year/:month/:day/:title
+
+plugins:
+- jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 
